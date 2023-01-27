@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NwCode</string>
+    <string name="image_category">Image Category</string>
+    <string name="choose_catrgory">Выберите категорию картинок из предложенных:</string>
+    <string name="image_of_category">Картинки из категории: %s</string>
+    <string name="set_as_wallpaper_btn_text">Установить в качестве обоев</string>
+    <string name="request_error">Произошла ошибка во время запроса -> %s</string>
+    <string name="success">Успешно установлено!</string>
+    <string name="fail">Ошибка!</string>
+</resources>
